@@ -23,3 +23,8 @@ int main(){
     cout<<n->val<<" "<<n->next<<endl;
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+20 0
+*/
